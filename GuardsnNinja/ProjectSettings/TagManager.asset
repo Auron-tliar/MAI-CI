@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Borders
+    uniqueID: 211537249
+    locked: 0
+  - name: Routes
+    uniqueID: 25816775
+    locked: 0
+  - name: Guards
+    uniqueID: 2962383139
+    locked: 0
+  - name: Ninja
+    uniqueID: 2684879475
+    locked: 0
+  - name: Text
+    uniqueID: 933973521
+    locked: 0

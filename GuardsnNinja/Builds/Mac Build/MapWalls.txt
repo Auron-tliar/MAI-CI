@@ -1,0 +1,33 @@
+25	15
+24	9
+ x x x x x x x x x x x x x x x x x x x x x x x x x 
+xS+O+O+O+O+O+O+O+O+O+O+OxO+O+O+O+O+O+O+O+O+O+O+O+Ox
+ + + + + + + + + + + + + + + + + + + + + + + + + + 
+xS+O+O+O+O+O+O+O+O+O+O+OxO+O+O+O+O+O+O+O+O+O+O+O+Ox
+ + + + + + + + + + + + + + + + + + + + + + + + + + 
+xS+O+O+O+O+OxO+O+OxO+O+OxO+O+O+O+O+O+O+O+O+O+O+O+Ox
+ + + + + + + + + + + + + + + + + = x x x x = x x x 
+xS+O+O+O+O+OxO+O+OxO+O+OxO+O+O+OxO+O+O+O+O+O+O+O+Ox
+ + + + + + + + + + + + x x + + + + + + + + + + + + 
+xS+O+O+O+O+O=O+O+O=O+O+O+O+O+O+OxO+O+O+O+O+O+O+O+Ox
+ + + + + + + + + + + + + + + + + + + x x x + x x x 
+xS+O+O+O+O+OxO+O+OxO+O+O+O+O+O+OxO+OxO+O+O+O+O+O+Ox
+ + + + + + + + + + + + x x + + + + + + + + + + + + 
+xS+O+O+O+O+OxO+O+OxO+O+OxO+O+O+O+O+OxO+O+O+O+O+O+Ox
+ + + + + + + + + + + + + + + + + + + + + + + + + + 
+xS+O+O+O+O+O=O+O+O=O+O+OxO+O+O+O+O+OxO+O+O+O+O+O+Ox
+ + + + + + + + + + + + + + + + + + + + + + + + + + 
+xS+O+O+O+O+OxO+O+OxO+O+OxO+O+O+OxO+OxO+O+O+O+O+O+Ox
+ + + + + + + + + + + + x x + + + + + x x + + + x x 
+xS+O+O+O+O+OxO+O+OxO+O+O+O+O+O+OxO+O+O+O+O+O+O+O+Ox
+ + + + + + + + + + + + + + + + + + + + + + + + + + 
+xS+O+O+O+O+O=O+O+O=O+O+O+O+O+O+OxO+O+O+O+O+O+O+O+Ox
+ + + + + + + + + + + + x x + + + = x x x x = x x x 
+xS+O+O+O+O+OxO+O+OxO+O+OxO+O+O+O+O+O+OxO+O+O+O+O+Ox
+ + + + + + + + + + + + + + + + + + + + + + + + + + 
+xS+O+O+O+O+OxO+O+OxO+O+OxO+O+O+O+O+O+O+O+O+O+O+O+Ox
+ + + + + + + + + + + + + + + + + + + + + + + + + + 
+xS+O+O+O+O+O+O+O+O+O+O+OxO+O+O+O+O+O+OxO+O+O+O+O+Ox
+ + + + + + + + + + + + + + + + + + + + + + + + + + 
+xS+O+O+O+O+O+O+O+O+O+O+OxO+O+O+O+O+O+OxO+O+O+O+O+Ox
+ x x x x x x x x x x x x x x x x x x x x x x x x x 
